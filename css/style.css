@@ -1,0 +1,19 @@
+.bw {
+    filter: grayscale(100%) brightness(65%);
+}
+
+.bw:hover {
+    filter: grayscale(100%) brightness(100%);
+}
+
+.color {
+    filter: brightness(65%);
+}
+
+.color:hover {
+    filter: brightness(100%);
+}
+
+.card-title {
+    font-weight: 400!important;
+}
